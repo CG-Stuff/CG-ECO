@@ -1,6 +1,8 @@
 # CG-Economy
-The Code are Open for Public, you can fork or Copy Paste it but remember to Give <code>GameWatch21#2925</code> Credit whenever you want, probably in p!help or p!info
+The code is open for public, you can fork or copy paste the code, but remember to give credit to <code>GameWatch21#2925</code> 
 I appreciate if you give me some place to appreciate my work here :)
+<br>
+Thanks to <code>Supernova-Potato#8263</code> for writing some pieces of code and adding ideas, fixing grammar and bugs, etc.
 
 
 # Features
