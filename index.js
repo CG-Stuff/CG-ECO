@@ -33,8 +33,14 @@ if (command === 'test') {
 	message.channel.send('Because i am a bot');
 }if (command === 'mention') {
 	if (!message.mentions.users.size) {
+    //already getting into seemingly but not actually dangerous territory here
+    const embed = new Discord.RichEmbed()
+    .setAuthor(`${message.author.username}`, message.author.avatarURL)
+    .setDescription(`:x: Too few arguments given.`)
+    .addField(`Usage:`, "`p!mention <@user>`")
+    .setColor("RED")
     
-	 return message.reply('you need to tag a user in order for me to mention them!');
+	 return message.reply(embed);
     
   }
 	const taggedUser = message.mentions.users.first();
@@ -44,11 +50,11 @@ if (command === 'test') {
 }
 if (command === 'avatar') {
 	if (!message.mentions.users.size) {
-		return message.channel.send(`Your avatar: <${message.author.displayAvatarURL({ format: "png", dynamic: true })}>`);
+		return message.channel.send(`Your avatar: ${message.author.avatarURL}`);
 	}
 
 	const avatarList = message.mentions.users.map(user => {
-		return `${user.username}'s avatar: <${user.displayAvatarURL({ format: "png", dynamic: true })}>`;
+		return `${user.username}'s avatar: ${user.displayAvatarURL}`;
 	});
 	message.channel.send(avatarList);
 }
