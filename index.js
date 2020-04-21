@@ -57,6 +57,8 @@ if (command === 'avatar') {
 		return `${user.username}'s avatar: ${user.displayAvatarURL}`;
 	});
 	message.channel.send(avatarList);
-}
+} if (command === 'class') {
+    client.commands.get('class').execute(message, args);
+ }
 });
 client.login(token);
