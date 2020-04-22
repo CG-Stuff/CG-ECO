@@ -4,6 +4,9 @@ I appreciate if you give me some place to appreciate my work here :)
 <br>
 Thanks to <code>Supernova-Potato#8263</code> for writing some pieces of code and adding ideas, fixing grammar and bugs, etc.
 
+# Team Members
+<code>GameWatch21#2925</code>
+<code>Supernova-Potato#8263</code>
 
 # Features
 <ul>
@@ -20,6 +23,11 @@ Thanks to <code>Supernova-Potato#8263</code> for writing some pieces of code and
 21 Apr 2020: <ul>
 <li>Opening Github project to be forked, rated, commented, bug report, feature idea</li>
 <li>Creating first fundamental Bot code</li>
+</ul>
+
+22 Apr 2020: <ul>
+  <li>Make the class command</li>
+  <li>Perfecting the code using command handler</li>
 </ul>
 
 # COPYRIGHT
