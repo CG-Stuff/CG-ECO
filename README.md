@@ -31,6 +31,9 @@ For [Discord](https://discord.gg/ZkW49AT)
   <li>Perfecting the code using command handler</li>
 </ul>
 
+# Installation
+This is an Installation step for how to use our codes :smile:
+
 # COPYRIGHT
 For those who fork my repo keep in mind that you need to attach my username <code>GameWatch21#2925</code> for the license
 
