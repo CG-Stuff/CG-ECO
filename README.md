@@ -10,13 +10,13 @@ For [Discord](https://discord.gg/ZkW49AT)
 <code>Supernova-Potato#8263</code>
 
 # Features
-- [] Mining, Harvesting, Learning, Cooking command for earning exp and money
-- [] Miner Class
-- [] Farmer Class
-- [] Crafter Class
-- [] Chef class
-- [] Global Trading System
-- [] Add more Idea soon
+- [ ] Mining, Harvesting, Learning, Cooking command for earning exp and money
+- [ ] Miner Class
+- [ ] Farmer Class
+- [ ] Crafter Class
+- [ ] Chef class
+- [ ] Global Trading System
+- [ ] Add more Idea soon
 
 # Status of Work
 21 Apr 2020: <ul>
