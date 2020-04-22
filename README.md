@@ -1,4 +1,5 @@
-[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+[![ForTheBadge built-by-CryptoGame Team](http://ForTheBadge.com/images/badges/built-by-developers.svg)](https://GitHub.com/Naereen/)
 
 # CG-Economy
 The code is open for public, you can fork or copy paste the code, but remember to give credit to <code>GameWatch21#2925</code> 
