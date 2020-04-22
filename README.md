@@ -10,6 +10,8 @@ For [Discord](https://discord.gg/ZkW49AT)
 <code>Supernova-Potato#8263</code>
 
 # Features
+(The checked mean the features are done)
+(if it not checked, then it is not done yet)
 - [ ] Mining, Harvesting, Learning, Cooking command for earning exp and money
 - [ ] Miner Class
 - [ ] Farmer Class
