@@ -1,3 +1,5 @@
+[![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/Naereen/StrapDown.js/blob/master/LICENSE)
+
 # CG-Economy
 The code is open for public, you can fork or copy paste the code, but remember to give credit to <code>GameWatch21#2925</code> 
 I appreciate if you give me some place to appreciate my work here :)
