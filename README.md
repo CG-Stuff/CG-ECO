@@ -24,6 +24,11 @@ For [Discord](https://discord.gg/ZkW49AT)
 - [ ] Add more Idea soon
 
 # Status of Work
+20 Jul 2020: <ul>
+  <li>Problem at login in or activating the bot (it could be the script is old</li>
+  <li>Overwrite the codes to make it better, and also read all the documentation</li>
+  <li> And yeah, editing the Readme.md, probably dont see the changelog since it never use</li
+    </ul>
 21 Apr 2020: <ul>
 <li>Opening Github project to be forked, rated, commented, bug report, feature idea</li>
 <li>Creating first fundamental Bot code</li>
